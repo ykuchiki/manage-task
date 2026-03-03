@@ -1,3 +1,8 @@
 AGENTS.md
 .env
 .DS_Store
+
+# SQLite DB
+*.db
+*.sqlite
+drizzle/
